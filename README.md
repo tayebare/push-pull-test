@@ -7,3 +7,5 @@ git clone https://github.com/tayebare/push-pull-test.git
 The code below then effected a pull:
 
 push-pull-test tayebare$ git pull origin main
+
+Yes! Now for another iteration of the process...
