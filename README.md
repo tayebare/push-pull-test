@@ -9,3 +9,5 @@ The code below then effected a pull:
 push-pull-test tayebare$ git pull origin main
 
 Yes! Now for another iteration of the process...
+
+Lovely! This "git pull origin main" and "git push origin main" loop appears to be working following the initial set up!
